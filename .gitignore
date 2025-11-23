@@ -1,0 +1,12 @@
+__pycache__/
+.DS_Store
+/vs-code
+.env
+/data
+
+*.wav
+*.pdf
+*.csv
+*.parquet
+
+_*
